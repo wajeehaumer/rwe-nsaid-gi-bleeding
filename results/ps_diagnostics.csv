@@ -1,0 +1,11 @@
+"metric","value"
+"Covariates in PS model",19
+"Covariates selected by LASSO",10
+"Share of population in equipoise (preference 0.3-0.7)",0.919
+"Matched pairs",830
+"Celecoxib users unmatched",970
+"Diclofenac users unmatched",0
+"Max |SMD| before adjustment",0.335
+"Max |SMD| after matching",0.063
+"Max |SMD| after overlap weighting",0.043
+"Covariates with |SMD| > 0.1 after matching",0

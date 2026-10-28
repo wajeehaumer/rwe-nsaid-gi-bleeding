@@ -1,0 +1,10 @@
+"time_at_risk","primary_window","analysis","persons_celecoxib","persons_diclofenac","events_celecoxib","events_diclofenac","ir_per_1000py_celecoxib","ir_per_1000py_diclofenac","hr","ci_lower","ci_upper","log_hr","se_log_hr","p"
+"Days 1-90",TRUE,"crude",1800,830,355,124,883.7,657.5,1.347,1.098,1.652,0.2976,0.1043,0.004334
+"Days 1-90",TRUE,"matched",830,830,130,124,685.3,657.5,1.043,0.8154,1.333,0.04169,0.1254,0.7395
+"Days 1-90",TRUE,"overlap",1800,830,355,124,883.7,657.5,1.172,0.9513,1.444,0.1587,0.1064,0.136
+"Days 1-30",FALSE,"crude",1800,830,113,46,783.5,692.2,1.132,0.8037,1.595,0.1242,0.1749,0.4775
+"Days 1-30",FALSE,"matched",830,830,35,46,521.7,692.2,0.7527,0.4827,1.174,-0.284,0.2267,0.2102
+"Days 1-30",FALSE,"overlap",1800,830,113,46,783.5,692.2,0.9902,0.6982,1.404,-0.009815,0.1783,0.9561
+"Day 1 to end of observation",FALSE,"crude",1800,830,355,124,11.78,7.989,1.347,1.098,1.652,0.2976,0.1043,0.004334
+"Day 1 to end of observation",FALSE,"matched",830,830,130,124,8.449,7.989,1.043,0.8154,1.333,0.04169,0.1254,0.7395
+"Day 1 to end of observation",FALSE,"overlap",1800,830,355,124,11.78,7.989,1.172,0.9513,1.444,0.1587,0.1064,0.136

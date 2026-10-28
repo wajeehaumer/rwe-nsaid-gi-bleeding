@@ -1,0 +1,7 @@
+"step","criterion","celecoxib","diclofenac"
+0,"First exposure to celecoxib or diclofenac",1844,850
+1,"Index date within an observation period",1800,830
+2,">= 365 days of observation before index",1800,830
+3,"Age >= 18 at index",1800,830
+4,"Exposed to only one of the two study drugs",1800,830
+5,"No GI bleed on or before index",1800,830
